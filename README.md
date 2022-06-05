@@ -21,7 +21,7 @@ cargo build --release
 5. Connect that websocket to get streams of random number every `2 seconds`. Below is an example response-
 
 ```json
-{integer: 5}
+{"integer": 5}
 ```
 
 ## Copyrights
